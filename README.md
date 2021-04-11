@@ -1,5 +1,7 @@
 # HashDict
 Ultra fast hash cracking dictionary attacks
+[logo]: https://i.imgur.com/ChhVXxh.png "Logo HashDict"
+![logo]
 ## Table of contents
 * [General info](#general-info)
 * [Setup](#setup)
