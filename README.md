@@ -9,7 +9,7 @@
 * [Modules](#Modules)
 
 ## General info
-HashDict uses very little cpu and memory and still goes through wordlists very fast.
+HashDict uses very little cpu and memory and still cracks hashes very fast.
 
 ## Setup
 
